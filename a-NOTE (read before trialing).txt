@@ -1,0 +1,15 @@
+=> Open the .py files in seperate VScode Editor or anyother Code editor that supports python.
+=> *** MAKE SURE THAT ALL THE REQUIRED PYTHON PACKAGES ARE INSTALLED IN YOUR SYSTEM *** (Modules/Packages : pygame, socket, threading, matplotlib, pandas, numpy, math, ast and time) .Use ***pip install MODULE_NAME***  in your command prompt to install these modules.
+=> The File will not be attached ,so do properly attach the files with correct name and path.(use .xlxs file)
+=> Check the IP and PORT are Similar in all the files
+=> Since the code is in (.pdf) and (.txt) format while using it in code editor,s check if the indentations are done correctly.
+=> Check if the file path is correct in the MAIN_MONITER_X.py file
+=> First run the SERVER(MAIN_MONITER_X.py file) ,then run the CLIENT files for proper funtioning.
+=> Use the terminal properly, give the valid input data.
+=> The RADAR_CLIENT.py file will connect to the server only if the terminal inputs are filled.
+=> Showdata Threads in the SERVER : showdata_rwr(rwr position), showdata_radar(radar position) , showdata_dmoniter(distance calculated by moniter)
+=> Use these inputs in the SERVER's terminal once all the CLIENTS are connected.
+=> All the Clients (RWR and RADAR) are created using Seperate Class, so you can create as many as Client objects with it and easily modify the code for further updation.
+
+=> *** For further details check in the Report ***.
+
